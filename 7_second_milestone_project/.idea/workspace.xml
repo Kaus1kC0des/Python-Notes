@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2823794f-de2f-4d9d-a404-4f8298e7b389" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../10_advanced_python/lectures/09_dates_and_times_python/Datetime cheatsheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_managing_projects_pipenv/using_pipenv.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/code/1_simple_interaction/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/code/2_creating_a_library/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/code/2_creating_a_library/libs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/code/2_creating_a_library/libs/openexchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/code/3_speed_up_with_cache/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/code/3_speed_up_with_cache/libs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/code/3_speed_up_with_cache/libs/openexchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/lectures/3_getting_all_exchange_rates/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/lectures/4_creating_a_currency_exchange_library/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/lectures/4_creating_a_currency_exchange_library/libs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/lectures/4_creating_a_currency_exchange_library/libs/openexchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/lectures/5_caching_with_cachetools/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/lectures/5_caching_with_cachetools/libs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/lectures/5_caching_with_cachetools/libs/openexchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_interacting_with_apis/lectures/6_functools_lru_cache/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_intro/lectures/11_lists/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1_intro/lectures/11_lists/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_intro/lectures/15_dictionaries/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1_intro/lectures/15_dictionaries/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_first_milestone_project/milestone_project_brief.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_errors/lectures/01_intro_to_errors/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_errors/lectures/02_built_in_errors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_errors/lectures/03_raising_errors/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_errors/lectures/04_creating_our_own_errors/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_errors/lectures/05_dealing_with_python_errors/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_errors/lectures/06_on_success_and_reraise/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_errors/side_projects/handling_errors_in_user_input/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/milestone_2_files/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/milestone_2_files/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/milestone_2_files/utils/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/milestone_2_json/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/milestone_2_json/books.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/milestone_2_json/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/milestone_2_json/utils/database.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NmnhFGTOMyq1mhUl85OXEzrAB3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kausik/My Drive/Python Basics/Python Code from Udemy Course/7_second_milestone_project",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2823794f-de2f-4d9d-a404-4f8298e7b389" name="Changes" comment="" />
+      <created>1680278241518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680278241518</updated>
+      <workItem from="1680278242696" duration="165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
